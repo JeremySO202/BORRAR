@@ -70,9 +70,7 @@ public class Main extends Application {
         GridPane.setConstraints(lPersona1, 0, 7);
         comboBoxPersona1 = new ComboBox<>();
         GridPane.setConstraints(comboBoxPersona1, 0,8);
-
-        mecago en su madre
-
+        
         Label lPersona2 = new Label("Persona 2");
         GridPane.setConstraints(lPersona2, 1, 7);
         comboBoxPersona2 = new ComboBox<>();
